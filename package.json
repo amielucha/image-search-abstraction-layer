@@ -1,0 +1,24 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amielucha/image-search-abstraction-layer.git"
+  },
+  "author": "amielucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amielucha/image-search-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/amielucha/image-search-abstraction-layer#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10",
+    "node-bing-api": "^2.4.1"
+  }
+}
